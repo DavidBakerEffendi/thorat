@@ -1,0 +1,152 @@
+{
+  "abstract_factory": {
+    "Actual Flow": 1,
+    "No Flow": 0,
+    "Sanitized Flow": 1
+  },
+  "aliasing": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 0
+  },
+  "decorator": {
+    "Actual Flow": 2,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "deque_access": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 1
+  },
+  "deque_clone": {
+    "Actual Flow": 1,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "dict_access": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 1
+  },
+  "exceptions": {
+    "Actual Flow": 3,
+    "No Flow": 2,
+    "Sanitized Flow": 0
+  },
+  "exec": {
+    "Actual Flow": 1,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "field_sensitivity": {
+    "Actual Flow": 2,
+    "No Flow": 3,
+    "Sanitized Flow": 3
+  },
+  "for_statement": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 1
+  },
+  "function_call": {
+    "Actual Flow": 2,
+    "No Flow": 0,
+    "Sanitized Flow": 1
+  },
+  "if_statement": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 1
+  },
+  "imports": {
+    "Actual Flow": 1,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "inherited_objects": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 0
+  },
+  "lambda_functions": {
+    "Actual Flow": 2,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "list_access": {
+    "Actual Flow": 2,
+    "No Flow": 1,
+    "Sanitized Flow": 0
+  },
+  "list_copy": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 0
+  },
+  "list_to_string": {
+    "Actual Flow": 1,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "match_statement": {
+    "Actual Flow": 0,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "minimal_test": {
+    "Actual Flow": 2,
+    "No Flow": 1,
+    "Sanitized Flow": 0
+  },
+  "multi_dementional_array": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 0
+  },
+  "object_sensitivity": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 1
+  },
+  "recursion": {
+    "Actual Flow": 1,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "reflection": {
+    "Actual Flow": 3,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "serialization": {
+    "Actual Flow": 1,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "static_functions": {
+    "Actual Flow": 1,
+    "No Flow": 0,
+    "Sanitized Flow": 0
+  },
+  "structural_subtypting": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 0
+  },
+  "threading": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 0
+  },
+  "while_statement": {
+    "Actual Flow": 1,
+    "No Flow": 1,
+    "Sanitized Flow": 1
+  },
+  "with_statement": {
+    "Actual Flow": 3,
+    "No Flow": 0,
+    "Sanitized Flow": 3
+  }
+}

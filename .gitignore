@@ -136,3 +136,5 @@ dmypy.json
 #*-result.json
 /output/
 /test_metadata/outputs_raw/
+
+.idea
