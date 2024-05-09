@@ -89,11 +89,6 @@
     "No Flow": 0,
     "Sanitized Flow": 0
   },
-  "match_statement": {
-    "Actual Flow": 0,
-    "No Flow": 0,
-    "Sanitized Flow": 0
-  },
   "minimal_test": {
     "Actual Flow": 2,
     "No Flow": 1,

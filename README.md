@@ -57,7 +57,6 @@ Then there is a file suffixed as `_meta-data.json` describing the whole test and
 |object_sensitivity|1|1|1|3|
 |minimal_test|2|1|0|3|
 |aliasing|1|1|0|2|
-|match_statement|0|0|0|0|
 |exec|1|0|0|1|
 |deque_clone|1|0|0|1|
 |if_statement|1|1|1|3|
