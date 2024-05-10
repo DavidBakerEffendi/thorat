@@ -5,7 +5,7 @@
         {
             "source": {
                 "statement": "command = request.view_args.get('command')",
-                "methodName": "if_route()",
+                "methodName": "if_route",
                 "className": "",
                 "lineNo": 12,
                 "targetName": "get",
@@ -13,7 +13,7 @@
             },
             "sink": {
                 "statement": "eval(sanitize(command))",
-                "methodName": "if_route()",
+                "methodName": "if_route",
                 "className": "",
                 "lineNo": 16,
                 "targetName": "eval",
@@ -25,7 +25,7 @@
             "intermediateFlows": [
                 {
                     "statement": "eval(sanitize(command))",
-                    "methodName": "sanitize(command: str)",
+                    "methodName": "sanitize",
                     "className": "",
                     "lineNo": 14,
                     "ID": 1

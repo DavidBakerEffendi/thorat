@@ -5,7 +5,7 @@
         {
             "source": {
                 "statement": "command = request.view_args.get('command)",
-                "methodName": "import_route()",
+                "methodName": "import_route",
                 "className": "",
                 "lineNo": 8,
                 "targetName": "get",
@@ -13,7 +13,7 @@
             },
             "sink": {
                 "statement": "eval(command)",
-                "methodName": "evaluate()",
+                "methodName": "evaluate",
                 "className": "ClassA",
                 "lineNo": 3,
                 "targetName": "eval",

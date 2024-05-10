@@ -15,7 +15,7 @@
                 "statement": "thread_1 = Thread(target=eval, args=[command])",
                 "methodName": "threading_route",
                 "className": "",
-                "lineNo": 11,
+                "lineNo": 10,
                 "targetName": "eval",
                 "targetNo": 1
             },

@@ -5,7 +5,7 @@
         {
             "source": {
                 "statement": "command = request.view_args.get('command)",
-                "methodName": "decorator_route()",
+                "methodName": "decorator_route",
                 "className": "",
                 "lineNo": 21,
                 "targetName": "get",
@@ -13,7 +13,7 @@
             },
             "sink": {
                 "statement": "eval(command)",
-                "methodName": "__call__()",
+                "methodName": "__call__",
                 "className": "TaintedDecorator",
                 "lineNo": 16,
                 "targetName": "eval",
