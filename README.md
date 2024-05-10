@@ -41,11 +41,13 @@ Then there is a file suffixed as `_meta-data.json` describing the whole test and
 |lambda_functions|2|0|0|2|
 |with_statement|3|0|3|6|
 |for_statement|1|1|1|3|
+|minimal_test|2|1|0|3|
 |while_statement|1|1|1|3|
 |decorator|2|0|0|2|
 |function_call|2|0|1|3|
 |field_sensitivity|2|3|3|8|
 |list_access|2|1|0|3|
+|reflection|3|0|0|3|
 |deque_access|1|1|1|3|
 |list_to_string|1|0|0|1|
 |static_functions|1|0|0|1|
@@ -55,7 +57,6 @@ Then there is a file suffixed as `_meta-data.json` describing the whole test and
 |exceptions|3|2|0|5|
 |serialization|1|0|0|1|
 |object_sensitivity|1|1|1|3|
-|minimal_test|2|1|0|3|
 |aliasing|1|1|0|2|
 |exec|1|0|0|1|
 |deque_clone|1|0|0|1|
@@ -63,7 +64,6 @@ Then there is a file suffixed as `_meta-data.json` describing the whole test and
 |multi_dementional_array|1|1|0|2|
 |structural_subtypting|1|1|0|2|
 |abstract_factory|1|0|1|2|
-|reflection|3|0|0|3|
 |recursion|1|0|0|1|
 |list_copy|1|1|0|2|
 |Grand Total| | | |74|
