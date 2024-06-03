@@ -47,6 +47,7 @@ Then there is a file suffixed as `_meta-data.json` describing the whole test and
 |function_call|2|0|1|3|
 |field_sensitivity|2|3|3|8|
 |list_access|2|1|0|3|
+|multi_dimensional_array|1|1|0|2|
 |reflection|3|0|0|3|
 |deque_access|1|1|1|3|
 |list_to_string|1|0|0|1|
@@ -61,7 +62,6 @@ Then there is a file suffixed as `_meta-data.json` describing the whole test and
 |exec|1|0|0|1|
 |deque_clone|1|0|0|1|
 |if_statement|1|1|1|3|
-|multi_dementional_array|1|1|0|2|
 |structural_subtypting|1|1|0|2|
 |abstract_factory|1|0|1|2|
 |recursion|1|0|0|1|
