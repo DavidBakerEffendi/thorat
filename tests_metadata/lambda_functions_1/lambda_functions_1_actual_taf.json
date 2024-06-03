@@ -4,11 +4,11 @@
     "findings": [
         {
             "source": {
-                "statement": "command = lambda_function('command')",
+                "statement": "request.view_args.get(param) #source",
                 "methodName": "lambda_route",
                 "className": "",
-                "lineNo": 13,
-                "targetName": "lambda_function",
+                "lineNo": 12,
+                "targetName": "get",
                 "targetNo": 1
             },
             "sink": {

@@ -21,7 +21,7 @@
             },
             "ID": 4866572345,
             "description": "Taint flow for the exception handling benchmark test. Command injection vulnerability.",
-            "isNegative": false,
+            "isNegative": true,
             "intermediateFlows": [],
             "attributes": {}
         }

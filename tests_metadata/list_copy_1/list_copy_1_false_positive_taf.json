@@ -21,7 +21,7 @@
             },
             "ID": 6161454294,
             "description": "Taint flow for the array contents benchmark test. Command injection vulnerability.",
-            "isNegative": false,
+            "isNegative": true,
             "intermediateFlows": [],
             "attributes": {}
         }

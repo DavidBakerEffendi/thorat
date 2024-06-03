@@ -21,7 +21,7 @@
             },
             "ID": 8895361813,
             "description": "Taint flow for the serialization benchmark test. Command injection vulnerability.",
-            "isNegative": false,
+            "isNegative": true,
             "intermediateFlows": [],
             "attributes": {}
         }

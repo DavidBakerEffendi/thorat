@@ -21,7 +21,7 @@
             },
             "ID": 3805402522,
             "description": "Taint flow for the object sensitivity benchmark test. Command injection vulnerability.",
-            "isNegative": false,
+            "isNegative": true,
             "intermediateFlows": [],
             "attributes": {}
         }
