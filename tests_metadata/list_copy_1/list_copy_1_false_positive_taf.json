@@ -1,5 +1,5 @@
 {
-    "fileName": "list_copy_1_actual.py",
+    "fileName": "list_copy_1_false_positive.py",
     "day": "2022-10-09",
     "findings": [
         {
@@ -12,7 +12,7 @@
                 "targetNo": 1
             },
             "sink": {
-                "statement": "array_copy_route()",
+                "statement": "eval(array_2[2])",
                 "methodName": "array_copy_route",
                 "className": "",
                 "lineNo": 12,
