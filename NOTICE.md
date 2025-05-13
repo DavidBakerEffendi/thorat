@@ -1,0 +1,5 @@
+**Original Work Notice:**  
+The original project (rajiv-thorat/benchmark-for-taint-analysis-tools-for-python) did not include a license and remains under its author's copyright.  
+This waiver applies only to changes made by David Baker Effendi after forking.
+
+While this repository has transformed the original substantially, some test cases remain in tact, so please take car.e
